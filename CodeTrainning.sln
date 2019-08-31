@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp6", "ConsoleApp6\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taskDemo", "taskDemo\taskDemo.csproj", "{73EF58A1-FC6F-4D6F-9301-04AD5A6D55BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nlogdemo2", "nlogdemo2\nlogdemo2.csproj", "{0DD707D1-41C3-42D4-A52C-38095BF29EAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{73EF58A1-FC6F-4D6F-9301-04AD5A6D55BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73EF58A1-FC6F-4D6F-9301-04AD5A6D55BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73EF58A1-FC6F-4D6F-9301-04AD5A6D55BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DD707D1-41C3-42D4-A52C-38095BF29EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD707D1-41C3-42D4-A52C-38095BF29EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD707D1-41C3-42D4-A52C-38095BF29EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD707D1-41C3-42D4-A52C-38095BF29EAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
