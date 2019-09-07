@@ -12,12 +12,12 @@ namespace ConsoleApp6
         {
             for (int i = 0; i < 10; i++)
             {
-                var sonuc = GetPersonInfo(i );
+                var sonuc = GetPersonInfo(i);
                 if (sonuc != null)
                 {
                     Console.WriteLine($"{ sonuc.Item1},{ sonuc.Item2},{sonuc.Item3}");
                 }
-          
+
             }
 
         }
@@ -27,11 +27,11 @@ namespace ConsoleApp6
             switch (personId)
             {
                 case 1:
-                    return new Tuple<string, string, int>("Seniha", "Özgür", 1976);
+                    return new Tuple<string, string, int>("mustafa", "Sarıel", 1981);
                 case 2:
-                    return new Tuple<string, string, int>("Ali", "Özgür", 1975);
+                    return new Tuple<string, string, int>("Emirhan", "Sarıel", 2011);
                 case 3:
-                    return new Tuple<string, string, int>("Arda", "Özgür", 2006);
+                    return new Tuple<string, string, int>("Kerem", "Sarıel", 2015);
                 default:
                     return null;
             }
