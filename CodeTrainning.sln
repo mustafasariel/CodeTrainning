@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nlogdemo2", "nlogdemo2\nlog
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "threadLockDemo", "threadLockDemo\threadLockDemo.csproj", "{B8E31003-E6C7-47DC-89A8-9671C7089326}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lockDemo", "lockDemo\lockDemo.csproj", "{018F8116-AB32-4328-A47D-DC85C6786D20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B8E31003-E6C7-47DC-89A8-9671C7089326}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8E31003-E6C7-47DC-89A8-9671C7089326}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8E31003-E6C7-47DC-89A8-9671C7089326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018F8116-AB32-4328-A47D-DC85C6786D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018F8116-AB32-4328-A47D-DC85C6786D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018F8116-AB32-4328-A47D-DC85C6786D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018F8116-AB32-4328-A47D-DC85C6786D20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
