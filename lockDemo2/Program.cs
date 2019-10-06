@@ -11,7 +11,7 @@ namespace lockDemo2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Adet:");
+            Console.WriteLine("Thread Count:");
             int adet = int.Parse(Console.ReadLine());
 
             var ornek = new Ornek(adet);
