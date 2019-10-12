@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lockDemo2", "lockDemo2\lock
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadNlogDemo", "MultiThreadNlogDemo\MultiThreadNlogDemo.csproj", "{49C13CA1-5EAD-4CE6-A307-7F73CECD2835}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperDemo1", "DapperDemo1\DapperDemo1.csproj", "{A7774242-E51B-4019-AF3E-20F03DB263A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{49C13CA1-5EAD-4CE6-A307-7F73CECD2835}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49C13CA1-5EAD-4CE6-A307-7F73CECD2835}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49C13CA1-5EAD-4CE6-A307-7F73CECD2835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7774242-E51B-4019-AF3E-20F03DB263A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7774242-E51B-4019-AF3E-20F03DB263A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7774242-E51B-4019-AF3E-20F03DB263A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7774242-E51B-4019-AF3E-20F03DB263A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
